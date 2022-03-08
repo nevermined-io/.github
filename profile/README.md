@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<br/>
 <h4 align='center'>
   <a href="https://docs.nevermined.io/">Developer Documentation</a> | <a href="https://discord.gg/GZju2qScKq">Discord</a>
 </h4>
