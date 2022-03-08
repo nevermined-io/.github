@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.nevermined.io/">
-    <img width="400" src="ihttps://raw.githubusercontent.com/nevermined-io/assets/main/images/logo/banner_logo.png">
+    <img src="https://raw.githubusercontent.com/nevermined-io/assets/main/images/logo/banner_logo.png">
   </a>
 </p>
 
